@@ -2,7 +2,11 @@
 
 ## Overview
 
-The Autonomous Vehicle Assistance Simulation (AVAS) is an innovative project developed as part of the McMaster Engineering Programming Competition 2023. This simulation is designed to showcase cutting-edge functionalities in autonomous vehicle technology, focusing on route optimization, pedestrian safety, and driver assistance.
+The Autonomous Vehicle Assistance Simulation (AVAS) is an innovative project developed as part of the McMaster Engineering Programming Competition 2023. This simulation is designed to showcase cutting-edge functionalities in autonomous vehicle technology, focusing on route optimization, pedestrian safety, and driver assistance. There was only a 6 hour window to create and submit the project, therefore its not perfect. 
+
+### Information About the Competition
+**Summary:** The McMaster Engineering Programming Competition 2023 focused on developing innovative systems for autonomous vehicles. We were tasked with creating simulations that included parking assistance, environmental detection, driver communication systems, and power optimization. The challenge emphasized safety, practicality, and creativity, with submissions judged on solution effectiveness, documentation, user interface design, and overall presentation.
+https://docs.google.com/document/d/1DJlgNGZo37z7DH1uKOFZ4cI3NT9g7Tx3LDcBJyaaiVY/edit?usp=sharing
 
 ## Features
 
@@ -16,8 +20,5 @@ The Autonomous Vehicle Assistance Simulation (AVAS) is an innovative project dev
 - **Frontend:** JavaScript, p5.js for interactive elements, HTML, and CSS for structuring and styling.
 - **Backend:** JavaScript logic for implementing the A* algorithm and pedestrian detection features.
 
-## How to Use
-### Pedestrian System
-Enter 
-View Optimal Path: Watch the simulation calculate the most energy-efficient route in real time.
-Safety Features: Observe the pedestrian detection system in action, enhancing road safety.
+## See in Action
+
